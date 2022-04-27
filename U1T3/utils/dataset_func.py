@@ -1,4 +1,8 @@
-""" Auxiliary functions to manipulate the Dataset"""
+""" Auxiliary functions to manipulate the Dataset
+
+This module assists the main modle "mission155solutions_refactored.py"
+with functions dedicated to process the dataset.
+"""
 import numpy as np
 import pandas as pd
 

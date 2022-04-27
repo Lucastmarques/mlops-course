@@ -1,4 +1,8 @@
-"""Auxiliary functions to manipulate a ML Model"""
+"""Auxiliary functions to manipulate a ML Model
+
+This module assists the main module "mission155solutions_refactored.py"
+with functions dedicated to create and test models.
+"""
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import KNeighborsRegressor

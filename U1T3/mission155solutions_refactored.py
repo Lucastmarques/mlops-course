@@ -1,4 +1,10 @@
-"""Main"""
+"""Explore many KNN models for Cars Pricing Regression
+
+Using Scikit-learn, pandas and numpy, this script explores
+many KNN models for cars pricing regression, using the dataset
+named imports-85.data, where 14 numeric features are used for
+predictions.
+"""
 import pandas as pd
 import numpy as np
 from utils.dataset_func import preprocess_dataset, split_dataset
