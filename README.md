@@ -14,3 +14,4 @@ There are some certificates of courses I have finished. Be free to take a look a
 *  [Text Processing in the Command Line](https://app.dataquest.io/verify_cert/IHEFSSMZBHUIE4ZTGY9X/)
 *  [Functions: Advanced](https://app.dataquest.io/verify_cert/8ANMF2LU6DUWMY60M8KQ/)
 *  [Data Visualization Fundamentals](https://app.dataquest.io/verify_cert/TNGC58CAEF5RAFMKY853/)
+*  [Storytelling Data Visualization and Information Design](https://app.dataquest.io/verify_cert/AZCKQOZUWIO7IVZBVMGY/)
