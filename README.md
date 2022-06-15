@@ -16,3 +16,4 @@ There are some certificates of courses I have finished. Be free to take a look a
 *  [Data Visualization Fundamentals](https://app.dataquest.io/verify_cert/TNGC58CAEF5RAFMKY853/)
 *  [Storytelling Data Visualization and Information Design](https://app.dataquest.io/verify_cert/AZCKQOZUWIO7IVZBVMGY/)
 *  [Building a Data Pipeline](https://app.dataquest.io/verify_cert/KC3IUCO1AVAO89KTYS8M/)
+*  [Machine Learning Fundamentals](https://app.dataquest.io/verify_cert/QXJ02AKGLD34O8FNIETW/)
