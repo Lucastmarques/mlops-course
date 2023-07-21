@@ -7,6 +7,7 @@ Repository to post all my works developed during IMD1123 - MLOPS course at UFRN.
 Projects developed so far:
 * [Improve _Guided Project: Predicting Car Prices_ solution code from Dataquest.io](https://github.com/Lucastmarques/mlops-course-U1T3)
 * [Data Visualization & Storytelling with data: Energy Consumption](https://github.com/Lucastmarques/energy-consumption)
+* [Implementing a complete MLOps pipeline to deploy a AirBnb House Price Prediction (AHPP) model in production](https://github.com/Lucastmarques/mlops_AHPP)
 
 There are some certificates of courses I have finished. Be free to take a look at all of them:
 *  [Git and Version Control](https://app.dataquest.io/verify_cert/Q18YE04S4OC9GVQDXUFW/)
@@ -17,4 +18,3 @@ There are some certificates of courses I have finished. Be free to take a look a
 *  [Storytelling Data Visualization and Information Design](https://app.dataquest.io/verify_cert/AZCKQOZUWIO7IVZBVMGY/)
 *  [Building a Data Pipeline](https://app.dataquest.io/verify_cert/KC3IUCO1AVAO89KTYS8M/)
 *  [Machine Learning Fundamentals](https://app.dataquest.io/verify_cert/QXJ02AKGLD34O8FNIETW/)
-*  [Implementing a complete MLOps pipeline to deploy a AirBnb House Price Prediction (AHPP) model in production](https://github.com/Lucastmarques/mlops_AHPP)
